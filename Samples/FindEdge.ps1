@@ -1,0 +1,1 @@
+﻿$input | Where-Object {$_.Name -eq "msedge.exe"}

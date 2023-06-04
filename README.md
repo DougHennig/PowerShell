@@ -1,0 +1,1 @@
+This repository contains the presentation materials for Doug Hennig's "Windows PowerShell: Batch Files on Steroids" session presented at [Prairie DevCon Winnipeg 2023](https://www.prairiedevcon.com/winnipeg.html).
