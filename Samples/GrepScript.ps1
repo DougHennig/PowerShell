@@ -1,7 +1,7 @@
 ﻿filter Grep($keyword)
 {
     <#
-    .Synopsis
+   .Synopsis
     This function returns items that match the specified keyword.
 
    .Description
